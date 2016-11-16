@@ -1,0 +1,6 @@
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\02.Methods\08.1.Number-As-Array-SecondWay\bin\Debug\08.1.Number-As-Array-SecondWay.exe.config
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\02.Methods\08.1.Number-As-Array-SecondWay\bin\Debug\08.1.Number-As-Array-SecondWay.exe
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\02.Methods\08.1.Number-As-Array-SecondWay\bin\Debug\08.1.Number-As-Array-SecondWay.pdb
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\02.Methods\08.1.Number-As-Array-SecondWay\obj\Debug\08.1.Number-As-Array-SecondWay.csprojResolveAssemblyReference.cache
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\02.Methods\08.1.Number-As-Array-SecondWay\obj\Debug\08.1.Number-As-Array-SecondWay.exe
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\02.Methods\08.1.Number-As-Array-SecondWay\obj\Debug\08.1.Number-As-Array-SecondWay.pdb

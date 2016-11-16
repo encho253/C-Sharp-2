@@ -1,0 +1,6 @@
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\02.Methods\05.Larger-Than-Neighbours\bin\Debug\05.Larger-Than-Neighbours.exe.config
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\02.Methods\05.Larger-Than-Neighbours\bin\Debug\05.Larger-Than-Neighbours.exe
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\02.Methods\05.Larger-Than-Neighbours\bin\Debug\05.Larger-Than-Neighbours.pdb
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\02.Methods\05.Larger-Than-Neighbours\obj\Debug\05.Larger-Than-Neighbours.csprojResolveAssemblyReference.cache
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\02.Methods\05.Larger-Than-Neighbours\obj\Debug\05.Larger-Than-Neighbours.exe
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\02.Methods\05.Larger-Than-Neighbours\obj\Debug\05.Larger-Than-Neighbours.pdb

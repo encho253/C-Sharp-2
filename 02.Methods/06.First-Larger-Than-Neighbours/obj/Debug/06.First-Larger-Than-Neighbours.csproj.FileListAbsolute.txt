@@ -1,0 +1,5 @@
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\02.Methods\06.First-Larger-Than-Neighbours\bin\Debug\06.First-Larger-Than-Neighbours.exe.config
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\02.Methods\06.First-Larger-Than-Neighbours\bin\Debug\06.First-Larger-Than-Neighbours.exe
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\02.Methods\06.First-Larger-Than-Neighbours\bin\Debug\06.First-Larger-Than-Neighbours.pdb
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\02.Methods\06.First-Larger-Than-Neighbours\obj\Debug\06.First-Larger-Than-Neighbours.exe
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\02.Methods\06.First-Larger-Than-Neighbours\obj\Debug\06.First-Larger-Than-Neighbours.pdb

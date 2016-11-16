@@ -1,0 +1,5 @@
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\02.Methods\03.English-Digit\bin\Debug\03.English-Digit.exe.config
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\02.Methods\03.English-Digit\bin\Debug\03.English-Digit.exe
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\02.Methods\03.English-Digit\bin\Debug\03.English-Digit.pdb
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\02.Methods\03.English-Digit\obj\Debug\03.English-Digit.exe
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\02.Methods\03.English-Digit\obj\Debug\03.English-Digit.pdb

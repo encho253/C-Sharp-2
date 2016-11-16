@@ -1,0 +1,5 @@
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\02.Methods\07.Reverse-Number\bin\Debug\07.Reverse-Number.exe.config
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\02.Methods\07.Reverse-Number\bin\Debug\07.Reverse-Number.exe
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\02.Methods\07.Reverse-Number\bin\Debug\07.Reverse-Number.pdb
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\02.Methods\07.Reverse-Number\obj\Debug\07.Reverse-Number.exe
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\02.Methods\07.Reverse-Number\obj\Debug\07.Reverse-Number.pdb

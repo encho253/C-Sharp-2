@@ -1,0 +1,6 @@
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\01.Multidimensional-Arrays\03.Sequence-In-Matrix\bin\Debug\03.Sequence-In-Matrix.exe.config
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\01.Multidimensional-Arrays\03.Sequence-In-Matrix\bin\Debug\03.Sequence-In-Matrix.exe
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\01.Multidimensional-Arrays\03.Sequence-In-Matrix\bin\Debug\03.Sequence-In-Matrix.pdb
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\01.Multidimensional-Arrays\03.Sequence-In-Matrix\obj\Debug\03.Sequence-In-Matrix.csprojResolveAssemblyReference.cache
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\01.Multidimensional-Arrays\03.Sequence-In-Matrix\obj\Debug\03.Sequence-In-Matrix.exe
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\01.Multidimensional-Arrays\03.Sequence-In-Matrix\obj\Debug\03.Sequence-In-Matrix.pdb

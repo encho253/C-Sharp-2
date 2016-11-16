@@ -1,0 +1,5 @@
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\02.Methods\11.Adding-Polynomials\bin\Debug\11.Adding-Polynomials.exe.config
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\02.Methods\11.Adding-Polynomials\bin\Debug\11.Adding-Polynomials.exe
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\02.Methods\11.Adding-Polynomials\bin\Debug\11.Adding-Polynomials.pdb
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\02.Methods\11.Adding-Polynomials\obj\Debug\11.Adding-Polynomials.exe
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\02.Methods\11.Adding-Polynomials\obj\Debug\11.Adding-Polynomials.pdb
