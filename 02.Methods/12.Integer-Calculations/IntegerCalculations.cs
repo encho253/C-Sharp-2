@@ -13,30 +13,17 @@ class IntegerCalculations
     /// </summary>
     static void Main()
     {
-        int[] array = InputData();
-        MinMaxAverageSumProduct(array);
+        int[] inputArray = Console.ReadLine().Split(' ').Select(n => int.Parse(n)).ToArray();
+        MinMaxAverageSumProduct(inputArray);
     }
-    /// <summary>
-    /// Inputs the data.
-    /// </summary>
-    /// <returns></returns>
-    static int[] InputData()
-    {
-        int[] array = new int[5];
-
-        string arrayAsString = Console.ReadLine();
-        array = arrayAsString.Split().Select(n => Convert.ToInt32(n)).ToArray();
-
-        return array;
-    }
-
+    
     /// <summary>
     /// Minimum, maximum, average, sum and product.
     /// </summary>
     /// <param name="array">The array.</param>
     static void MinMaxAverageSumProduct(int[] array)
     {
-        int product = 0;
+        long product = 1;
 
         Console.WriteLine(array.Min());
         Console.WriteLine(array.Max());

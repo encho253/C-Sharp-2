@@ -30,32 +30,19 @@ class LargestAreaInMatrix
 
     static void LargestArea(int[,] matrix)
     {
-        int numberOfElements = matrix.GetLength(0) * matrix.GetLength(1);
+
         int equal = 0;
         int bestEqual = 0;
 
-
-        for (int k = 0; k < matrix.GetLength(0); k++)
+        while (true)
         {
-            for (int m = 0; m < matrix.GetLength(1); m++)
-            {
-                for (int i = 0; i < matrix.GetLength(0); i++)
-                {
-                    for (int j = 0; j < matrix.GetLength(1); j++)
-                    {
-                        if (matrix[k,m] == matrix[i,j])
-                        {
-                            equal++;
-                        }
-                    }                    
-                }
-                if (equal > bestEqual)
-                {
-                    bestEqual = equal;
-                }
-                equal = 0;
-            }
+
         }
+        if (equal > bestEqual)
+        {
+            bestEqual = equal;
+        }
+        equal = 0;
         Console.WriteLine(bestEqual);
     }
 }

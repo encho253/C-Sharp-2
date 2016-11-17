@@ -5,12 +5,13 @@
 /// </summary>
 class ReverseNumber
 {
+
     /// <summary>
     /// Defines the entry point of the application.
     /// </summary>
     static void Main()
     {
-        double number = double.Parse(Console.ReadLine());
+        string number = Console.ReadLine();
         Console.WriteLine(ReverseDecimalNumber(number));
     }
 
@@ -19,13 +20,12 @@ class ReverseNumber
     /// </summary>
     /// <param name="number">The number.</param>
     /// <returns></returns>
-    static double ReverseDecimalNumber(double number)
-    {
-        string numberToString = number.ToString();
-        char[] arr = numberToString.ToCharArray();
+    static string ReverseDecimalNumber(string number)
+    {     
+        char[] arr = number.ToCharArray();
         Array.Reverse(arr);
-        numberToString = new string(arr);
-        number = Convert.ToDouble(numberToString);
-        return number;
+        string numberToString = new string(arr);
+   
+        return numberToString;
     }
 }

@@ -16,7 +16,10 @@ class NumberAsArray
     {
         string size = Console.ReadLine();
         int[] sizeArray = size.Split(' ').Select(n => Convert.ToInt32(n)).ToArray();
-        PrintSumOfTheArrays(SumOfTwoArrays(InputArrayAsString(sizeArray[0]), InputArrayAsString(sizeArray[1])));      
+        int[] firstArray = InputArrayAsString(sizeArray[0]);
+        int[] secondArray = InputArrayAsString(sizeArray[1]);
+        List<int> sumOfTwoArrays = SumOfTwoArrays(firstArray,secondArray);
+        PrintSumOfTheArrays(sumOfTwoArrays);      
     }
 
     /// <summary>

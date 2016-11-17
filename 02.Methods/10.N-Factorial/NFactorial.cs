@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Numerics;
 
 /// <summary>
 /// Write a method that multiplies a number represented as an array of digits by a given integer number. 
@@ -12,6 +13,7 @@ class NFactorial
     static void Main()
     {
         int number = int.Parse(Console.ReadLine());
+      
         CalculateNumberFacturial(number);
     }
 
@@ -21,11 +23,27 @@ class NFactorial
     /// <param name="number">The number.</param>
     static void CalculateNumberFacturial(int number)
     {
-        int factorial = 1;
-        for (int i = 1; i <= number; i++)
-        {
-            factorial *= i;
+        BigInteger factorial = 1;
+
+        if (number < 0)
+        {          
+            return;
         }
-        Console.WriteLine(factorial);
+
+        else if (number == 0 || number == 1)
+        {
+            Console.WriteLine(factorial);
+            return;
+        }
+        else
+        {
+            for (int i = 2; i <= number; i++)
+            {
+                factorial *= i;
+            }
+
+            Console.WriteLine(factorial);
+            return;
+        }
     }
 }
