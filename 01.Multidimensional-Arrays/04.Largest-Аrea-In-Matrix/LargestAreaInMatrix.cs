@@ -4,16 +4,16 @@ class LargestAreaInMatrix
 {
     static void Main()
     {
-        int[,] matrix = InputData();
+        long[,] matrix = InputData();
 
         LargestArea(matrix);
     }
 
-    static int[,] InputData()
+    static long[,] InputData()
     {
         string size = Console.ReadLine();
         string[] sizeString = size.Split(' ');
-        int[,] matrix = new int[int.Parse(sizeString[0]), int.Parse(sizeString[1])];
+        long[,] matrix = new long[long.Parse(sizeString[0]), long.Parse(sizeString[1])];
 
         for (int i = 0; i < matrix.GetLength(0); i++)
         {
@@ -22,27 +22,66 @@ class LargestAreaInMatrix
 
             for (int j = 0; j < matrix.GetLength(1); j++)
             {
-                matrix[i, j] = int.Parse(arrayNumbers[j]);
+                matrix[i, j] = long.Parse(arrayNumbers[j]);
             }
         }
         return matrix;
     }
 
-    static void LargestArea(int[,] matrix)
+    static void LargestArea(long[,] matrix)
     {
-
-        int equal = 0;
-        int bestEqual = 0;
-
-        while (true)
+        int area = 0;
+        int bestArea = 0;
+        int col = 0;
+        int row = 0;
+        int colJ = 0;
+        int rowI = 0;
+        bool firstTime = false;
+        int counter = 0;
+       
+        while (counter <= (matrix.GetLength(0) * matrix.GetLength(1)))
         {
+            firstTime = true;
+            for (int i = rowI; i < matrix.GetLength(0); i++)
+            {
+                for (int j = colJ; j < matrix.GetLength(1); j++)
+                {
+                    if (firstTime)
+                    {
+                        if (i > row || j > col)
+                        {
+                            row = i;
+                            col = j;
+                            colJ = j;
+                            rowI = i;
+                            firstTime = false;
+                        }
+                    }
+                    if ((i - 1) >= 0 && (i + 1) < (matrix.GetLength(0) - 1) && (j - 1) >= 0 && j < (matrix.GetLength(1) - 1))
+                    {
+                        
+                    }
+                    else if((i - 1) >= 0 && (i + 1) < (matrix.GetLength(0) - 1) && (j - 1) >= 0 && j < (matrix.GetLength(1) - 1))
+                    {
+
+                    }
+                    else if ((i - 1) >= 0 && (i + 1) < (matrix.GetLength(0) - 1) && (j - 1) >= 0 && j < (matrix.GetLength(1) - 1))
+                    {
+
+                    }
+                    else if ((i - 1) >= 0 && (i + 1) < (matrix.GetLength(0) - 1) && (j - 1) >= 0 && j < (matrix.GetLength(1) - 1))
+                    {
+
+                    }
+                }
+            }
+            if (area > bestArea)
+            {
+                bestArea = area;
+            }
+            area = 0;
 
         }
-        if (equal > bestEqual)
-        {
-            bestEqual = equal;
-        }
-        equal = 0;
-        Console.WriteLine(bestEqual);
+        Console.WriteLine(bestArea);
     }
 }

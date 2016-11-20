@@ -1,0 +1,6 @@
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\03.Numeral-Systems\04.Hexadecimal-To-Decimal\bin\Debug\04.Hexadecimal-To-Decimal.exe.config
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\03.Numeral-Systems\04.Hexadecimal-To-Decimal\bin\Debug\04.Hexadecimal-To-Decimal.exe
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\03.Numeral-Systems\04.Hexadecimal-To-Decimal\bin\Debug\04.Hexadecimal-To-Decimal.pdb
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\03.Numeral-Systems\04.Hexadecimal-To-Decimal\obj\Debug\04.Hexadecimal-To-Decimal.csprojResolveAssemblyReference.cache
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\03.Numeral-Systems\04.Hexadecimal-To-Decimal\obj\Debug\04.Hexadecimal-To-Decimal.exe
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\03.Numeral-Systems\04.Hexadecimal-To-Decimal\obj\Debug\04.Hexadecimal-To-Decimal.pdb

@@ -1,0 +1,6 @@
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\03.Numeral-Systems\07.One-System-To-Any-Other\bin\Debug\07.One-System-To-Any-Other.exe.config
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\03.Numeral-Systems\07.One-System-To-Any-Other\bin\Debug\07.One-System-To-Any-Other.exe
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\03.Numeral-Systems\07.One-System-To-Any-Other\bin\Debug\07.One-System-To-Any-Other.pdb
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\03.Numeral-Systems\07.One-System-To-Any-Other\obj\Debug\07.One-System-To-Any-Other.csprojResolveAssemblyReference.cache
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\03.Numeral-Systems\07.One-System-To-Any-Other\obj\Debug\07.One-System-To-Any-Other.exe
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\03.Numeral-Systems\07.One-System-To-Any-Other\obj\Debug\07.One-System-To-Any-Other.pdb
