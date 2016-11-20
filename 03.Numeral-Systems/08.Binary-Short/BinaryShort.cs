@@ -28,15 +28,15 @@ class BinaryShort
     static List<long> FromDecimalToBinary(long number)
     {
         List<long> binary = new List<long>();
-        bool isNegativ = false;
+        bool isNegative = false;
         int bitCounter = 0;
-        int remainder = 0;
+        int keepInMind = 0;
         int oneBit = 1;
 
         if (number < 0)
         {
             number *= -1;
-            isNegativ = true;
+            isNegative = true;
         }
         while (number > 0)
         {
@@ -53,7 +53,7 @@ class BinaryShort
                 bitCounter++;
             }
         }       
-        if (isNegativ)
+        if (isNegative)
         {
             //Еquated to '0' the oder (16 - bitCounter) bits
             for (int i = 0; i < 16 - bitCounter; i++)
@@ -77,17 +77,17 @@ class BinaryShort
             // 2's complement
             for (int i = 0; i < 16; i++)
             {
-                if ((binary[i] + oneBit + remainder) == 2)
+                if ((binary[i] + oneBit + keepInMind) == 2)
                 {
                     binary[i] = 0;
-                    remainder = 1;
+                    keepInMind = 1;
                 }
-                else if((binary[i] + oneBit + remainder) == 1)
+                else if((binary[i] + oneBit + keepInMind) == 1)
                 {
                     binary[i] = 1;
-                    remainder = 0;
+                    keepInMind = 0;
                 }
-                else if((binary[i] + oneBit + remainder) == 0)
+                else if((binary[i] + oneBit + keepInMind) == 0)
                 {
                     binary[i] = 0;
                 }
