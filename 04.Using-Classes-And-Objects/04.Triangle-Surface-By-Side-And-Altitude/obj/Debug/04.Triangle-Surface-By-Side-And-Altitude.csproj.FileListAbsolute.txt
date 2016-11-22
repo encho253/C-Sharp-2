@@ -1,0 +1,6 @@
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\04.Using-Classes-And-Objects\04.Triangle-Surface-By-Side-And-Altitude\bin\Debug\04.Triangle-Surface-By-Side-And-Altitude.exe.config
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\04.Using-Classes-And-Objects\04.Triangle-Surface-By-Side-And-Altitude\bin\Debug\04.Triangle-Surface-By-Side-And-Altitude.exe
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\04.Using-Classes-And-Objects\04.Triangle-Surface-By-Side-And-Altitude\bin\Debug\04.Triangle-Surface-By-Side-And-Altitude.pdb
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\04.Using-Classes-And-Objects\04.Triangle-Surface-By-Side-And-Altitude\obj\Debug\04.Triangle-Surface-By-Side-And-Altitude.csprojResolveAssemblyReference.cache
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\04.Using-Classes-And-Objects\04.Triangle-Surface-By-Side-And-Altitude\obj\Debug\04.Triangle-Surface-By-Side-And-Altitude.exe
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\04.Using-Classes-And-Objects\04.Triangle-Surface-By-Side-And-Altitude\obj\Debug\04.Triangle-Surface-By-Side-And-Altitude.pdb

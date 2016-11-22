@@ -1,0 +1,6 @@
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\04.Using-Classes-And-Objects\06.Triangle-Surface-By-Two-Sides-And-An-Angle\bin\Debug\06.Triangle-Surface-By-Two-Sides-And-An-Angle.exe.config
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\04.Using-Classes-And-Objects\06.Triangle-Surface-By-Two-Sides-And-An-Angle\obj\Debug\06.Triangle-Surface-By-Two-Sides-And-An-Angle.csprojResolveAssemblyReference.cache
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\04.Using-Classes-And-Objects\06.Triangle-Surface-By-Two-Sides-And-An-Angle\bin\Debug\06.Triangle-Surface-By-Two-Sides-And-An-Angle.exe
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\04.Using-Classes-And-Objects\06.Triangle-Surface-By-Two-Sides-And-An-Angle\bin\Debug\06.Triangle-Surface-By-Two-Sides-And-An-Angle.pdb
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\04.Using-Classes-And-Objects\06.Triangle-Surface-By-Two-Sides-And-An-Angle\obj\Debug\06.Triangle-Surface-By-Two-Sides-And-An-Angle.exe
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\04.Using-Classes-And-Objects\06.Triangle-Surface-By-Two-Sides-And-An-Angle\obj\Debug\06.Triangle-Surface-By-Two-Sides-And-An-Angle.pdb

@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Leap-Year", "01.Leap-Year\01.Leap-Year.csproj", "{4D653050-E3D2-40E9-BF67-7477B380489D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Random-Numbers", "02.Random-Numbers\02.Random-Numbers.csproj", "{DAF9A9B0-F9C9-4842-A265-E3058478D3A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Day-Of-Week", "03.Day-Of-Week\03.Day-Of-Week.csproj", "{DFFC5DF7-13D9-4434-8357-DCA42FD391D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Triangle-Surface-By-Side-And-Altitude", "04.Triangle-Surface-By-Side-And-Altitude\04.Triangle-Surface-By-Side-And-Altitude.csproj", "{D20ABF59-239B-4FCF-BFAA-0E4A299D3447}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Triangle-Surface-By-Three-Sides", "05.Triangle-Surface-By-Three-Sides\05.Triangle-Surface-By-Three-Sides.csproj", "{84421CCF-D0D6-4204-A8FC-B8CF0D7B42F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Triangle-Surface-By-Two-Sides-And-An-Angle", "06.Triangle-Surface-By-Two-Sides-And-An-Angle\06.Triangle-Surface-By-Two-Sides-And-An-Angle.csproj", "{937F65CD-B84A-4580-A340-29239ED2E490}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.Sum-Integers", "08.Sum-Integers\08.Sum-Integers.csproj", "{ADBB1019-4160-4F5B-9341-AA3058D10450}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D653050-E3D2-40E9-BF67-7477B380489D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D653050-E3D2-40E9-BF67-7477B380489D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D653050-E3D2-40E9-BF67-7477B380489D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D653050-E3D2-40E9-BF67-7477B380489D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAF9A9B0-F9C9-4842-A265-E3058478D3A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAF9A9B0-F9C9-4842-A265-E3058478D3A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAF9A9B0-F9C9-4842-A265-E3058478D3A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAF9A9B0-F9C9-4842-A265-E3058478D3A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFFC5DF7-13D9-4434-8357-DCA42FD391D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFFC5DF7-13D9-4434-8357-DCA42FD391D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFFC5DF7-13D9-4434-8357-DCA42FD391D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFFC5DF7-13D9-4434-8357-DCA42FD391D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D20ABF59-239B-4FCF-BFAA-0E4A299D3447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D20ABF59-239B-4FCF-BFAA-0E4A299D3447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D20ABF59-239B-4FCF-BFAA-0E4A299D3447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D20ABF59-239B-4FCF-BFAA-0E4A299D3447}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84421CCF-D0D6-4204-A8FC-B8CF0D7B42F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84421CCF-D0D6-4204-A8FC-B8CF0D7B42F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84421CCF-D0D6-4204-A8FC-B8CF0D7B42F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84421CCF-D0D6-4204-A8FC-B8CF0D7B42F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{937F65CD-B84A-4580-A340-29239ED2E490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{937F65CD-B84A-4580-A340-29239ED2E490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{937F65CD-B84A-4580-A340-29239ED2E490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{937F65CD-B84A-4580-A340-29239ED2E490}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADBB1019-4160-4F5B-9341-AA3058D10450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADBB1019-4160-4F5B-9341-AA3058D10450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADBB1019-4160-4F5B-9341-AA3058D10450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADBB1019-4160-4F5B-9341-AA3058D10450}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

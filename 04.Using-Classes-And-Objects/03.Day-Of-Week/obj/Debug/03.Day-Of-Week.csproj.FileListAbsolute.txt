@@ -1,0 +1,5 @@
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\04.Using-Classes-And-Objects\03.Day-Of-Week\bin\Debug\03.Day-Of-Week.exe.config
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\04.Using-Classes-And-Objects\03.Day-Of-Week\bin\Debug\03.Day-Of-Week.exe
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\04.Using-Classes-And-Objects\03.Day-Of-Week\bin\Debug\03.Day-Of-Week.pdb
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\04.Using-Classes-And-Objects\03.Day-Of-Week\obj\Debug\03.Day-Of-Week.exe
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\04.Using-Classes-And-Objects\03.Day-Of-Week\obj\Debug\03.Day-Of-Week.pdb

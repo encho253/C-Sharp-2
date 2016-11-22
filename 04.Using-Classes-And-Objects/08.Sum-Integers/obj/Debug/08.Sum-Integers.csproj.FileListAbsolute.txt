@@ -1,0 +1,5 @@
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\04.Using-Classes-And-Objects\08.Sum-Integers\bin\Debug\08.Sum-Integers.exe.config
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\04.Using-Classes-And-Objects\08.Sum-Integers\bin\Debug\08.Sum-Integers.exe
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\04.Using-Classes-And-Objects\08.Sum-Integers\bin\Debug\08.Sum-Integers.pdb
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\04.Using-Classes-And-Objects\08.Sum-Integers\obj\Debug\08.Sum-Integers.exe
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\04.Using-Classes-And-Objects\08.Sum-Integers\obj\Debug\08.Sum-Integers.pdb

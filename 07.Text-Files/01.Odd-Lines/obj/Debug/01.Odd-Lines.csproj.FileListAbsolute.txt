@@ -1,0 +1,6 @@
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\07.Text-Files\01.Odd-Lines\bin\Debug\01.Odd-Lines.exe.config
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\07.Text-Files\01.Odd-Lines\bin\Debug\01.Odd-Lines.exe
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\07.Text-Files\01.Odd-Lines\bin\Debug\01.Odd-Lines.pdb
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\07.Text-Files\01.Odd-Lines\obj\Debug\01.Odd-Lines.csprojResolveAssemblyReference.cache
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\07.Text-Files\01.Odd-Lines\obj\Debug\01.Odd-Lines.exe
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\07.Text-Files\01.Odd-Lines\obj\Debug\01.Odd-Lines.pdb

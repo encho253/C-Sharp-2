@@ -1,0 +1,5 @@
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\04.Using-Classes-And-Objects\02.Random-Numbers\bin\Debug\02.Random-Numbers.exe.config
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\04.Using-Classes-And-Objects\02.Random-Numbers\bin\Debug\02.Random-Numbers.exe
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\04.Using-Classes-And-Objects\02.Random-Numbers\bin\Debug\02.Random-Numbers.pdb
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\04.Using-Classes-And-Objects\02.Random-Numbers\obj\Debug\02.Random-Numbers.exe
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\04.Using-Classes-And-Objects\02.Random-Numbers\obj\Debug\02.Random-Numbers.pdb
