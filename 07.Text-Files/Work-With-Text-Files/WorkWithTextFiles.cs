@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 
 class WorkWithTextFiles
 {
@@ -13,20 +14,22 @@ class WorkWithTextFiles
 
         string[] readFromTextFile = ReadFromTextFile(textFileOne);
         List<string> sortByFirstTwoLetters = SortWordsByFirstTwoLetters(readFromTextFile);
-        List<string> removeEqualWords = RemoveEqualWordsInList(sortByFirstTwoLetters);
-        WriteToFile(textFileTwo, removeEqualWords);
+        WriteToFile(textFileTwo, sortByFirstTwoLetters);
     }
     static string[] ReadFromTextFile(string textFile)
     {
         StreamReader readFileOne = new StreamReader(textFile);
-        
+
         using (readFileOne)
         {
             string textFromFile = readFileOne.ReadToEnd();
             string[] wordFromFail = textFromFile.Split('\n').Select(n => Convert.ToString(n)).ToArray();
-
-            return wordFromFail;         
-        }      
+            for (int i = 0; i < wordFromFail.Length; i++)
+            {
+              wordFromFail[i] = Regex.Replace(wordFromFail[i], @"\t|\n|\r", "");
+            }           
+            return wordFromFail;
+        }
     }
     static List<string> SortWordsByFirstTwoLetters(string[] wordFromFail)
     {
@@ -40,27 +43,10 @@ class WorkWithTextFiles
                 listWords.Add(wordFromFail[i]);
             }
         }
+        listWords = listWords.Distinct().ToList();      
         return listWords;
     }
-    static List<string> RemoveEqualWordsInList(List<string> listWords)
-    {
-        int counter = 1;
-
-        for (int i = 0; i < listWords.Count; i++)
-        {
-            for (int j = counter; j < listWords.Count; j++)
-            {
-                if (listWords[i] == listWords[j])
-                {
-                    listWords.RemoveAt(j);
-                    j--;
-                }
-            }
-            counter++;
-        }
-        return listWords;
-    }
-    static void WriteToFile(string textFileTwo,List<string> listWords) 
+    static void WriteToFile(string textFileTwo, List<string> listWords)
     {
         listWords.Sort();
         listWords.Reverse();

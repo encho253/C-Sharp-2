@@ -1,0 +1,6 @@
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\Exams\01.March-2015-Evening\03.Bit-Shift-Matrix\bin\Debug\03.Bit-Shift-Matrix.exe.config
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\Exams\01.March-2015-Evening\03.Bit-Shift-Matrix\bin\Debug\03.Bit-Shift-Matrix.exe
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\Exams\01.March-2015-Evening\03.Bit-Shift-Matrix\bin\Debug\03.Bit-Shift-Matrix.pdb
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\Exams\01.March-2015-Evening\03.Bit-Shift-Matrix\obj\Debug\03.Bit-Shift-Matrix.exe
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\Exams\01.March-2015-Evening\03.Bit-Shift-Matrix\obj\Debug\03.Bit-Shift-Matrix.pdb
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\Exams\01.March-2015-Evening\03.Bit-Shift-Matrix\obj\Debug\03.Bit-Shift-Matrix.csprojResolveAssemblyReference.cache

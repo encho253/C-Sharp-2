@@ -1,0 +1,6 @@
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\Exams\01.March-2015-Evening\01.De-cat-coding\bin\Debug\01.De-cat-coding.exe.config
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\Exams\01.March-2015-Evening\01.De-cat-coding\bin\Debug\01.De-cat-coding.exe
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\Exams\01.March-2015-Evening\01.De-cat-coding\bin\Debug\01.De-cat-coding.pdb
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\Exams\01.March-2015-Evening\01.De-cat-coding\obj\Debug\01.De-cat-coding.csprojResolveAssemblyReference.cache
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\Exams\01.March-2015-Evening\01.De-cat-coding\obj\Debug\01.De-cat-coding.exe
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\Exams\01.March-2015-Evening\01.De-cat-coding\obj\Debug\01.De-cat-coding.pdb
