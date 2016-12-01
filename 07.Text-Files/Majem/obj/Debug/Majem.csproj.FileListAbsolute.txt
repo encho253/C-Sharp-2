@@ -1,0 +1,6 @@
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\07.Text-Files\Majem\bin\Debug\Majem.exe.config
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\07.Text-Files\Majem\bin\Debug\Majem.exe
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\07.Text-Files\Majem\bin\Debug\Majem.pdb
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\07.Text-Files\Majem\obj\Debug\Majem.csprojResolveAssemblyReference.cache
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\07.Text-Files\Majem\obj\Debug\Majem.exe
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\07.Text-Files\Majem\obj\Debug\Majem.pdb

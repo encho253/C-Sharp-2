@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Work-With-Text-Files", "Wor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadFromFile", "ReadFromFile\ReadFromFile.csproj", "{9F4F113E-8037-4F85-B007-179A768B1575}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Majem", "Majem\Majem.csproj", "{F8F01006-F833-4CF0-B5A8-39C718E1FAA0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{9F4F113E-8037-4F85-B007-179A768B1575}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F4F113E-8037-4F85-B007-179A768B1575}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F4F113E-8037-4F85-B007-179A768B1575}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8F01006-F833-4CF0-B5A8-39C718E1FAA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8F01006-F833-4CF0-B5A8-39C718E1FAA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8F01006-F833-4CF0-B5A8-39C718E1FAA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8F01006-F833-4CF0-B5A8-39C718E1FAA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

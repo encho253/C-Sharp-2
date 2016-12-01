@@ -1,0 +1,6 @@
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\05.Strings-And-Text-Processing\08.Extract-Sentences\bin\Debug\08.Extract-Sentences.exe.config
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\05.Strings-And-Text-Processing\08.Extract-Sentences\bin\Debug\08.Extract-Sentences.exe
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\05.Strings-And-Text-Processing\08.Extract-Sentences\bin\Debug\08.Extract-Sentences.pdb
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\05.Strings-And-Text-Processing\08.Extract-Sentences\obj\Debug\08.Extract-Sentences.csprojResolveAssemblyReference.cache
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\05.Strings-And-Text-Processing\08.Extract-Sentences\obj\Debug\08.Extract-Sentences.exe
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\05.Strings-And-Text-Processing\08.Extract-Sentences\obj\Debug\08.Extract-Sentences.pdb

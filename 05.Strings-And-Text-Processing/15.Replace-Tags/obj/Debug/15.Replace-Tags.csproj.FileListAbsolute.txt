@@ -1,0 +1,6 @@
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\05.Strings-And-Text-Processing\15.Replace-Tags\bin\Debug\15.Replace-Tags.exe.config
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\05.Strings-And-Text-Processing\15.Replace-Tags\bin\Debug\15.Replace-Tags.exe
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\05.Strings-And-Text-Processing\15.Replace-Tags\bin\Debug\15.Replace-Tags.pdb
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\05.Strings-And-Text-Processing\15.Replace-Tags\obj\Debug\15.Replace-Tags.csprojResolveAssemblyReference.cache
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\05.Strings-And-Text-Processing\15.Replace-Tags\obj\Debug\15.Replace-Tags.exe
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\05.Strings-And-Text-Processing\15.Replace-Tags\obj\Debug\15.Replace-Tags.pdb

@@ -1,0 +1,6 @@
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\Exams\01.March-2015-Evening\02.Increasing-Absolute-Differences\bin\Debug\02.Increasing-Absolute-Differences.exe.config
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\Exams\01.March-2015-Evening\02.Increasing-Absolute-Differences\bin\Debug\02.Increasing-Absolute-Differences.exe
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\Exams\01.March-2015-Evening\02.Increasing-Absolute-Differences\bin\Debug\02.Increasing-Absolute-Differences.pdb
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\Exams\01.March-2015-Evening\02.Increasing-Absolute-Differences\obj\Debug\02.Increasing-Absolute-Differences.csprojResolveAssemblyReference.cache
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\Exams\01.March-2015-Evening\02.Increasing-Absolute-Differences\obj\Debug\02.Increasing-Absolute-Differences.exe
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\Exams\01.March-2015-Evening\02.Increasing-Absolute-Differences\obj\Debug\02.Increasing-Absolute-Differences.pdb

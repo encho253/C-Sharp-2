@@ -1,0 +1,6 @@
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\05.Strings-And-Text-Processing\02.Reverse-String\bin\Debug\02.Reverse-String.exe.config
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\05.Strings-And-Text-Processing\02.Reverse-String\bin\Debug\02.Reverse-String.exe
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\05.Strings-And-Text-Processing\02.Reverse-String\bin\Debug\02.Reverse-String.pdb
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\05.Strings-And-Text-Processing\02.Reverse-String\obj\Debug\02.Reverse-String.csprojResolveAssemblyReference.cache
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\05.Strings-And-Text-Processing\02.Reverse-String\obj\Debug\02.Reverse-String.exe
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\05.Strings-And-Text-Processing\02.Reverse-String\obj\Debug\02.Reverse-String.pdb

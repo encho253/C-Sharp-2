@@ -1,0 +1,6 @@
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\05.Strings-And-Text-Processing\06.String-Length\bin\Debug\06.String-Length.exe.config
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\05.Strings-And-Text-Processing\06.String-Length\bin\Debug\06.String-Length.exe
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\05.Strings-And-Text-Processing\06.String-Length\bin\Debug\06.String-Length.pdb
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\05.Strings-And-Text-Processing\06.String-Length\obj\Debug\06.String-Length.csprojResolveAssemblyReference.cache
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\05.Strings-And-Text-Processing\06.String-Length\obj\Debug\06.String-Length.exe
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\05.Strings-And-Text-Processing\06.String-Length\obj\Debug\06.String-Length.pdb

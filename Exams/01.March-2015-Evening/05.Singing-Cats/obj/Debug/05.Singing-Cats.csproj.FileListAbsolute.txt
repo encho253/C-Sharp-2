@@ -1,0 +1,6 @@
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\Exams\01.March-2015-Evening\05.Singing-Cats\bin\Debug\05.Singing-Cats.exe.config
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\Exams\01.March-2015-Evening\05.Singing-Cats\bin\Debug\05.Singing-Cats.exe
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\Exams\01.March-2015-Evening\05.Singing-Cats\bin\Debug\05.Singing-Cats.pdb
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\Exams\01.March-2015-Evening\05.Singing-Cats\obj\Debug\05.Singing-Cats.csprojResolveAssemblyReference.cache
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\Exams\01.March-2015-Evening\05.Singing-Cats\obj\Debug\05.Singing-Cats.exe
+D:\GitHub2016-2017\C-Sharp-II-2016-2017\Exams\01.March-2015-Evening\05.Singing-Cats\obj\Debug\05.Singing-Cats.pdb
